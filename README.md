@@ -31,7 +31,7 @@
 
 ![Ben Ruwel's github stats](https://github-readme-stats.vercel.app/api?username=benruwel&count_private=true&show_icons=true&theme=dark)
 
-<!-- #### Currently Listening to 🎧
+#### Currently Listening to 🎧
 
-[<img src="https://novatorem-git-master.benruwel.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350">](https://open.spotify.com/user/s1m04uvflrewsa282oz1nbh6g) -->
+[<img src="https://novatorem-git-master.benruwel.vercel.app/spotify" alt="Spotify Now Playing" width="350">](https://open.spotify.com/user/s1m04uvflrewsa282oz1nbh6g)
 
