@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<!-- ### GitHub Stats -->
+### GitHub Stats
 
-<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://spotify-github-profile.vercel.app/api/view?uid=denzelwamburu&cover_image=false" /> -->
+![Ben Ruwel's github stats](https://github-readme-stats.vercel.app/api?username=benruwel&count_private=true&show_icons=true&theme=dark)
 
