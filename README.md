@@ -1,10 +1,9 @@
 ### Hi there, I'm Ben 👋
 
-## I'm a Developer and Student!!
+## I'm a developer and student
 
-- 🌱 I’m currently learning **Android** and a bit of **React**
-- 👯 I’m looking for internship opportunities in **Software Development**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Angular**
+- 🥅 2021 Goals: Wholesame dev
 
 
 ### Connect with me:
